@@ -1,2 +1,3 @@
-# Ccode
-记录c语言编写
+# C_code
+
+## 记录xtuoj刷题
